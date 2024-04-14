@@ -47,8 +47,18 @@ This project utilizes the following technologies and resources:
 
 ## Application Preview
 
--![image](https://github.com/barath-sk17/third-eye/assets/127032804/7ff31128-ca0b-4ef0-af0f-d3125f37095b)
+![image](https://github.com/barath-sk17/third-eye/assets/127032804/7ff31128-ca0b-4ef0-af0f-d3125f37095b)
 
--![image](https://github.com/barath-sk17/third-eye/assets/127032804/63bd9232-c0a4-4ecf-ab6d-f2315625bbcb)
+##
 
--![image](https://github.com/barath-sk17/third-eye/assets/127032804/3eb42c18-e2f3-4d16-b9ec-9c038aee816e)
+![image](https://github.com/barath-sk17/third-eye/assets/127032804/63bd9232-c0a4-4ecf-ab6d-f2315625bbcb)
+
+##
+
+![image](https://github.com/barath-sk17/third-eye/assets/127032804/3eb42c18-e2f3-4d16-b9ec-9c038aee816e)
+
+##
+
+![image](https://github.com/barath-sk17/third-eye/assets/127032804/e60bed6b-cc80-4895-92cd-2839a7518892)
+
+##
