@@ -19,7 +19,7 @@ This Android application demonstrates real-time object detection using TensorFlo
 1. Clone the repository to your local machine using:
 
    ```
-   git clone https://github.com/barath-sk17/third-eye.git
+   git clone https://github.com/barath-sk17/VisionGuide.git
    ```
 
 2. Open the project in Android Studio.
