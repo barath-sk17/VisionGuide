@@ -1,4 +1,4 @@
-# Third-Eye ( Real-Time Object Detection App )
+# VisionGuide ( Real-Time Object Detection App )
 
 This Android application demonstrates real-time object detection using TensorFlow Lite and a pre-trained SSD MobileNet model. The app captures video from the device's camera and overlays detected objects on the live camera feed. It also utilizes TextToSpeech to announce the detected objects verbally.
 
