@@ -61,4 +61,3 @@ This project utilizes the following technologies and resources:
 
 ![image](https://github.com/barath-sk17/third-eye/assets/127032804/e60bed6b-cc80-4895-92cd-2839a7518892)
 
-##
